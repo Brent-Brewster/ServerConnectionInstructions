@@ -9,4 +9,7 @@ Greetings Thanks for your intrest in playing on the homies craft minecraft serve
      ![Screenshot](IMG2.png)
 3. Now open up the installation make sure that client is selected and then click install
    ![Screenshot](IMG3.png)
-
+4. Now that you have the client installed open up your minecraft launcher and create a new minecraft insalation under the installations tab and select Release 1.20-Forge...
+5. Install the create mod from the Forge Mods [website](https://www.curseforge.com/minecraft/mc-mods/create)
+6. launch your forge installation of minecraft from the minecraft launcher
+7. Once it's open click on the mods and then open mods folder and copy/drap and drop the create mod .jar file into it and then restart Minecraft and you should be finished! 
