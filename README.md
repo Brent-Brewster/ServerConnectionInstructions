@@ -7,4 +7,6 @@ Greetings Thanks for your intrest in playing on the homies craft minecraft serve
      ![Screenshot](Image1.png)
 2. Look to the right hand side of the screen that says download recomended and click on the inslaller it will direct you to an adFocus page that you will have to wait 5 seconds before clicking the skip button in the top right
      ![Screenshot](IMG2.png)
+3. Now open up the installation make sure that client is selected and then click install
+   ![Screenshot](IMG3.png)
 
